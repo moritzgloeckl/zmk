@@ -6,7 +6,6 @@
 
 #include <device.h>
 #include <drivers/sensor.h>
-#include <power/reboot.h>
 #include <logging/log.h>
 
 #include <zmk/split/bluetooth/service.h>
